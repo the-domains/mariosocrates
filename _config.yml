@@ -1,7 +1,7 @@
 name: mariosocrates
 favicon: null
-layout_spectrum: 0.50473
-typography_spectrum: 0.64961
+layout_spectrum: 0.3889500121586025
+typography_spectrum: 0.30667322082445025
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6d5640'
-    - '#000000'
-    - '#ab8f73'
-    - '#fff3e6'
-    - '#f6c5a3'
-  brandStrength: 0.5
-  lightness: 0.7747788166161627
-  saturation: 0.5
-  rhythmicContrast: 0.75
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9102371919434518
+  lightness: 0.7647742996923625
+  saturation: 0.9052755709271878
+  rhythmicContrast: 0.274749883916229
 purpose: []
