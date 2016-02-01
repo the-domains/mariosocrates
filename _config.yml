@@ -1,0 +1,28 @@
+name: mariosocrates
+favicon: null
+layout_spectrum: 0.50473
+typography_spectrum: 0.64961
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#6d5640'
+    - '#000000'
+    - '#ab8f73'
+    - '#fff3e6'
+    - '#f6c5a3'
+  brandStrength: 0.5
+  lightness: 0.7747788166161627
+  saturation: 0.5
+  rhythmicContrast: 0.75
+purpose: []
