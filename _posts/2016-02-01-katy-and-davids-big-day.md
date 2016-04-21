@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-01T12:14:53.217Z'
-dateModified: '2016-02-01T12:14:30.101Z'
+description: 'Recently, I had the pleasure to photograph Katy and David’s wedding.'
+datePublished: '2016-04-21T11:24:42.615Z'
+dateModified: '2016-04-21T11:24:36.482Z'
 title: "Katy & David's big day"
 author: []
 authors: []
